@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity"
     android:background="#F1ECEC"
-    android:id="@+id/constraingLayout">
+    android:id="@+id/constraintLayout">
 
     <LinearLayout
         android:id="@+id/linearLayout"
